@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "781052430424",
+    "project_id": "library-practice-5dc0f",
+    "storage_bucket": "library-practice-5dc0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781052430424:android:ef5806582b7ce29bfa622d",
+        "android_client_info": {
+          "package_name": "com.udemy.course.assignment.chat_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781052430424-f0d7g9e6i0cnpbfqrrs61torholaos8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZPWTFwmzBEgGQkkrmTJXgDFiMCcKAHkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781052430424-f0d7g9e6i0cnpbfqrrs61torholaos8h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "781052430424-f4aoe9frfi980fld90rg6fefivivb7dm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.districit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
